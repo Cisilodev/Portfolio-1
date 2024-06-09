@@ -10,7 +10,7 @@ let game = {
         'electron',
         'firebase',
         'html',
-        'javascript',
+        'javaScript',
         'jquery',
         'mongo',
         'node',
